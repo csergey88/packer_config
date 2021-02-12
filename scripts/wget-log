@@ -1,0 +1,11 @@
+--2021-02-12 15:08:41--  https://raw.githubusercontent.com/express42/otus-snippets/master/packer-base/install_mongodb.sh
+Визначення назви raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.109.133, 185.199.111.133, ...
+Встановлення з'єднання з raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... з’єднано.
+HTTP-запит надіслано, очікуємо на відповідь… 200 OK
+Довжина: 304 [text/plain]
+Зберігаємо до «install_mongodb.sh»
+
+     0K                                                       100% 6,90M=0s
+
+2021-02-12 15:08:41 (6,90 MB/s) - «install_mongodb.sh» збережено [304/304]
+
